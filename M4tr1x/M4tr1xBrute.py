@@ -11,7 +11,7 @@ sharedSecret1 = 128939448577488
 sharedSecret2 = 592988748673453
 sharedSecret3 = 792513759492579
 USER = "architect"
-RHOST = "10.10.87.46" # LinuxBayServerIPv4Address_HERE!!! CHANGE UPON AttackBox ReInstantiated...!!!
+RHOST = "10.10.59.109" # LinuxBayServerIPv4Address_HERE!!! CHANGE UPON AttackBox ReInstantiated...!!!
 
 """
 M4tr1xBrute.py: 
@@ -27,10 +27,13 @@ and run commands for attempted ssh login according to ssh totp diagrams taken fr
 """
 
 try:
+    subprocess.call("sudo timedatectl set-timezone UTC", shell=True)
+    print("Subprocess TimeZone Change Successful.")
     client = ntplib.NTPClient() #NTPClient Establishment Attempt
     response = client.request(RHOST) #IP of linux-bay server login request on RHOST for response packet Layer 6+ from Transport Layer
     print("ntplib.NTPClient().request({}): response = {}\n".format(RHOST, response)) #Debug Statement: Informational
     os.system("date {}".format(time.strftime('%m%d%H%M%Y.%S', time.localtime(response.tx_time))))
+
 except:
     print('Could not sync with time server.')
     sys.exit()
