@@ -1,0 +1,660 @@
+TryHackMe Citational Sources: TryHackMe User Resource Research Guide:
+
+------------------------------------------------------------------------------
+Tips: i. Research/ Info Sections, the answer is staring you in the face 99% of the time.
+      - Especially true in Cyber Defense, COMPTIA+ Pentest Sections.   
+      Try EVERYTHING and match to length of charString hidden 
+      (e.g. "************* ***** ********").
+      ii. When in doubt, gtfobins/msfvenom exploitation resources.
+      iii. Google-FU is GOD...
+      - (iii.a). EXACT Query searching for web crawlers and learning how to Google-Fu like a programmer is ESSENTIAL to getting to the end. 
+      iv. Don't try to re-invent the wheel; help where you can if no one else has anything on it... 
+          Isolated sources and gatekeeping ...** Yadda Yadda, Thrill of 
+          "The Most Dangerous Game", Whatever...** ...
+      v. Diversity of Opinion/Technique improves abilities regardless of field you are in. 
+         Always be willing to listen and learn when you don't understand something.
+      vi. Have Fun and take breaks when the box shuts down or before your eyes bleed...
+
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------       
+
+Sources:
+
+----------------------------------------------------------------------- 
+-----------------------------------------------------------------------
+
+Buffer Overflow Prep: 
+i. https://akshaygupta21.medium.com/tryhackme-buffer-overflow-prep-93572c885dae
+ii. https://medium.com/swlh/tryhackme-buffer-overflow-prep-9b2ece17a13c
+iii. https://steflan-security.com/tryhackme-buffer-overflow-prep/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Honey Pots: 
+i. https://www.kumaratuljaiswal.in/2021/10/introduction-to-honeypots.html
+ii. https://github.com/phin3has/mailoney
+iii. https://github.com/paralax/awesome-honeypots
+iv. https://github.com/cowrie/cowrie
+v. https://github.com/DinoTools/dionaea
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Alpha Recon: 
+i. https://www.blogger.com/blogin.g?blogspotURL=https%3A%2F%2Fblueteamcyberdefender.blogspot.com%2F2021%2F10%2Ftryhackme-active-reconnaissance-writeup.html&type=blog&bpli=1
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Passive Recon:
+i. https://medium.com/@tr1n1ty8/tryhackme-passive-reconnaissance-writeup-4fb8e04be666
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Daily Bugle:
+i. https://steflan-security.com/tryhackme-daily-bugle-walkthrough/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Mr. Robot:
+i. https://adi060898.medium.com/tryhackme-walkthrough-mr-robot-cfb095b5f0fc
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Win PrivEsc: 
+i. https://www.thedutchhacker.com/windows-privesc-on-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Linux PrivEsc: 
+i. https://saihatnetsec.blogspot.com/2021/02/tryhackme-linux-privesc-walkthrough.html
+ii. https://revx0r.com/linux-privesc-tryhackme/
+iii. https://motasem-notes.net/the-complete-linux-privilege-escalation-capstone-tryhackme-junior-penetration-tester/
+iv. https://david-varghese.medium.com/tryhackme-linux-privesc-9ea2cfac3b76
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Linux Fundamentals:
+Part 1: 
+      a. 
+Part 2: 
+     a. https://saihatnetsec.blogspot.com/2021/02/tryhackme-linux-privesc-walkthrough.html
+Part 3: 
+     a. https://electronicsreference.com/thm/linux_fundamentals_pt3/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Linux Agency: 
+ i. https://marcorei7.wordpress.com/2021/03/09/114-linux-agency/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Linux Server Forensics:
+ i. https://jasonturley.xyz/tryhackme-linux-server-forensics-writeup/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Linux Function Hacking:
+ i. https://classroom.anir0y.in/post/tryhackme-linuxfunctionhooking/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Windows Fundamentals:  
+ Part 1. 
+ i. https://blog.rudra0x01.xyz/tryhackme-windows-fundamentals-1?x-host=blog.rudra0x01.xyz
+ 
+ Part 2:
+ i. https://nehrunayak.medium.com/tryhackme-windows-fundamentals-2-d59576fcd5b
+ 
+ Part 3:
+ i. https://nehrunayak.medium.com/tryhackme-windows-fundamentals-3-99cc02523381  
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Investigating Windows: 
+
+1.0:
+i. https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb
+
+2.0: 
+i. https://0xsanz.medium.com/investigating-windows-2-0-tryhackme-256c7b01d643
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+OWASP Top 10:
+i. https://marcorei7.wordpress.com/2020/08/02/023-top-10-owasp/
+ii. https://swafox.com/thm-owasp/
+iii. https://owasp.org/www-community/attacks/Path_Traversal
+- Secondary Resource Provided by the end in the module. 
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Metasploit:
+i. https://complexsecurity.io/try-hack-me/metasploit
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+NMAP:
+i. https://doretox.com/nmap-walkthrought/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+RP:Metasploit:
+i. https://infosecwriteups.com/rp-metasploit-walkthrough-tryhackme-63f01ce1f535?gi=eb4b962cd865
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Burp Suite Repeater:
+i. https://hacklido.com/blog/479-tryhackme-burp-suite-repeater-walkthrough
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Yara:
+i. https://www.thedutchhacker.com/yara-on-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+FireEye Redline: 
+i. https://motasem-notes.net/how-to-use-fireeye-redline-for-incident-response-tryhackme-redline/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+MITRE:
+i. https://www.thedutchhacker.com/mitre-on-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+MAL: Malware Introductory:
+i. https://doretox.com/malware-introductory-walkthrough/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Log4j: Solar:
+i. https://pranqsterslair.com/tryhackme-solar-exploiting-log4j-walkthrough/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Pwn101 (BinEx):
+a. Write-Ups:
+i. https://www.craft.do/s/aj6tTTQTWmSoWm
+ii. https://www.cdpointpoint.fr/thm-pwn101-challenge-write-up.html
+iii. https://vulndev.io/tag/tryhackme/
+iv. https://infosecwriteups.com/pwn101-walkthrough-tryhackme-d34b4236b2a0
+v. https://github.com/VOiD-Ayush/The_Awesome_Blog/blob/17fb9edc37325cb5e35686fb4c1f7d4819cd9b58/all_collections/_posts/2022-04-29-PWN101-Tryhackme.md
+
+b. Scripts Needed:
+i. https://github.com/ChrisPritchard/ctf-writeups/tree/55c27a7a7c4214ca7ac812784332434f8eb27d2e/tryhackme-rooms/pwn101
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+M4tr1x: Exit Denied:
+i. https://www.notion.so/TryHackMe-M4tr1x-Exit-Denied-41c470e20c524ca5bd74fccb12054a83
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Android Malware Analysis:
+i. https://classroom.anir0y.in/post/tryhackme-androidmalwareanalysis/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Conti Ransomware (Splunk):
+i. https://motasem-notes.net/investigating-conti-ransomware-on-microsoft-exchange-with-splunk-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Ollie:
+i. https://lanfran02.github.io//posts/ollie//
+ii. https://github.com/lanfran02/lanfran02.github.io/blob/68c8a3d5c067d9be61f1ba920830a6513a4dcaaa/content/posts/Ollie/index.en.md
+iii. https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io/blob/5621f36d9fd519df70cf17dd111e4867403b3f9b/thm/Ollie/index.md
+
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Snort (Live Attacks):
+i. https://hamdisevben.medium.com/tryhackme-snort-challenge-live-attacks-3d467b55d56
+ii. https://zime.rocks/snort/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Crack The Hash:
+
+Level 1: 
+i. 
+
+Level 2:
+i. https://blog.raw.pm/en/TryHackMe-Crack-The-Hash-Level-2-write-up/
+ii. https://crypt0cr1s.medium.com/tryhackme-crack-the-hash-level-2-espa%C3%B1ol-86369c1d007e
+iii. https://shamsher-khan-404.medium.com/crack-the-hash-level-2-tryhackme-writeup-292c86b72ea0
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Sudo Buffer Overflow:
+i. https://blog.raw.pm/en/TryHackMe-Sudo-Buffer-Overflow-write-up/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Intro 2 Flask:
+i. https://blog.raw.pm/en/TryHackMe-Introduction-to-Flask-write-up/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Biohazard: 
+i. https://blog.raw.pm/en/TryHackMe-Biohazard-write-up/
+ii. https://yebberdog.medium.com/try-hack-me-biohazard-walkthrough-4c43fda578ed
+iii. https://hafiqiqmal93.medium.com/tryhackme-biohazard-1bcd10bffa65
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+BreakIt:
+i. https://sckull.github.io/posts/breakit/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Baron Samedit:
+i. https://blog.raw.pm/en/TryHackMe-Baron-Samedit-write-up/
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Vulnversity:
+i. https://fnginfosec.github.io/tryhackme/2020/06/04/vulnversity.html
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Year of the X:
+-----------------------------------------------------------------------
+Owl:
+----------------------------------------------------------------------- 
+i. https://muirlandoracle.co.uk/2020/09/17/year-of-the-owl-write-up/
+ii. 
+
+-----------------------------------------------------------------------
+Dog:
+-----------------------------------------------------------------------
+i.
+ii.
+
+-----------------------------------------------------------------------
+Jellyfish:
+-----------------------------------------------------------------------
+i. https://synisl33t.com/2021/11/13/thm-year-of-the-jellyfish/
+ii. https://muirlandoracle.co.uk/write-up/
+iii. https://vulndev.io/tag/tryhackme/
+iv. 
+
+-----------------------------------------------------------------------
+Rabbit:
+-----------------------------------------------------------------------
+i.
+ii. 
+
+-----------------------------------------------------------------------
+
+...
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Wreath:
+i. https://marmeus.com/post/Wreath
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Walking an Application:
+i. https://hacklido.com/blog/469-tryhackme-walking-an-application-walkthrough
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Retro:
+i. https://ahoner.medium.com/tryhackme-retro-walkthrough-9e43ce3f45db
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+GateKeeper:
+i. https://apjone.uk/tryhackme-gatekeeper/
+ii. 
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+WiFi Hacking 101:
+i. https://sitechsecurity.wordpress.com/2020/07/15/thm-wifi-hacking-101-room-writeup/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Attacktive Directory:
+i. https://arslanblcn.github.io/posts/Tryhackme-Attacktive-Directory/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Nax: 
+i. https://www.hackingarticles.in/nax-tryhackme-walkthrough/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Blue:
+i. https://chaudhary1337.github.io/p/tryhackme-blue-writeup/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+CC: Pen Testing:
+i. https://fthcyber.com/2020/10/14/cc-pen-testing-writeup-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+TMUX: 
+i. https://www.secjuice.com/thm-tmux/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Splunk:
+i. https://mehtasploit.wordpress.com/2020/08/19/tryhackme-splunk-walkthrough/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+RP Web Scanning: 
+i. https://deskel.github.io/posts/thm/rp-web-scanning
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Searchlight IMINT:
+i. https://www.secjuice.com/searchlight-imint/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Intro to x86-64:
+i. https://medium.owaspvit.com/intro-to-x86-64-tryhackme-room-walkthrough-a87070e14a4
+ii. https://zacheller.dev/thm-introtox8664
+iii. https://www.cyb3rm3.com/w1n64a553mbly
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+FFUF:
+i. https://classroom.anir0y.in/post/tryhackme-ffuf/#task-02-basics
+ii. https://nehrunayak.medium.com/tryhackme-ffuf-194871e2e247
+iii. 
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+DNS Manipulation:
+i. https://infosecwriteups.com/dns-manipulation-tryhackme-writeup-7b625023a9a3
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+The Hacker Methodology: 
+i. https://infosecwriteups.com/the-hacker-methodology-tryhackme-writeup-e81ff7822f17
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+CC-Steganography:
+i. https://juliette1012.github.io/posts/THM-CC-Steganography/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Intro to PoC Scripting:
+i. https://laptrinhx.com/tryhackme-intro-poc-scripting-walkthrough-2992061218/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Border Lands: 
+i. https://lioxliu.wordpress.com/2020/08/05/border-lands-tryhackme/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Dumping Router Firmware:
+i. https://www.invalidhost.com/tryhackme-dumping-router-software/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+OSINT Dojo: Sakura:
+i. https://www.kumaratuljaiswal.in/2021/04/osint-dojos-sakura-room-walkthrough.html
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Learn Rust: 
+i. https://infosecwriteups.com/learn-rust-tryhackme-writeup-55ab1e5be76c
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+TShark:
+i. https://dev.to/hextrace/thm-tshark-4kji
+ii. https://medium.com/cryptogennepal/tryhackme-tshark-walkthrough-a634bbfc9190
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+The Great Escape: 
+i. https://synisl33t.com/2021/11/21/thm-the-great-escape/
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+TryHackMe KaffeeSec — SoMeSINT
+i. https://thisisfinx.medium.com/1-4-tryhackme-kaffeesec-somesint-writeup-e1a7286b4824
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Mobile Malware Analysis:
+i. https://hamdisevben.medium.com/tryhackme-mobile-malware-analysis-1fbb533557bb
+ 
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Brute It:
+i. https://hackermancountzer0.medium.com/tryhackme-brute-it-d221952cd0f3
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Root Me: 
+i. https://david-varghese.medium.com/tryhackme-rootme-e13d2806596f
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Ice:
+i. https://david-varghese.medium.com/tryhackme-ice-aca0d0f29383
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Ignite:
+i. https://jarilaurila.medium.com/writeup-thm-ignite-1bcef3f0b59e
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+CC:Ghidra
+i. https://gotoback.medium.com/tryhackme-cc-ghidra-c00c4b1d5deb
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Web Fundamentals:
+i. https://sakshiaggarwal0502.medium.com/tryhackme-web-fundamentals-walkthrough-d2a65dc045be
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Juicy Details:
+i. https://xtravelingtanner.medium.com/juicy-details-tryhackme-writeup-cb3c7d977dc0
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Wireshark: The Basics:
+i. https://medium.com/@CarsonS/tryhackme-wireshark-the-basics-writeup-2e364d86661c
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Follina MSDT (Recent Threats):
+i. https://systemweakness.com/thm-follina-msdt-8ebd708ff3a5?gi=9a0cdcb5a89d
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Geolocating Images:
+i. https://thisisfinx.medium.com/1-1-tryhackme-geolocating-images-writeup-ee818969139
+
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Brainpan:
+1:
+i. https://dorian5.medium.com/tryhackme-com-brainpan-1-walkthrough-3c9648a18c31
+
+2:
+i.
+
+...
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Password Security:
+i. https://yenxuan.medium.com/try-hack-me-password-security-e6c94774278
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Hydra: 
+i. https://medium.com/liveonnetwork/hydra-tryhackme-f3efb6658ac0
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Disk Analysis & Autopsy:
+i. https://medium.com/@tr1n1ty8/tryhackme-disk-analysis-autopsy-walkthrough-fabfe60beb9b#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0ZTA2Y2ViMjJiMDFiZTU2YzIxM2M5ODU0MGFiNTYzYmZmNWE1OGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2Mzc3MjM1ODEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMzc1NDQ2NTc5ODUyMzE1ODg2MSIsImVtYWlsIjoibWxwZmFuYXRpYzkwM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkF2YXRhck9mV29lIDkwMyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQVRYQUp4RF9UN25YVllsbnVONjAydUlEYlJfVHRfblJ6cFZpZnhuUzZvPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkF2YXRhck9mV29lIiwiZmFtaWx5X25hbWUiOiI5MDMiLCJpYXQiOjE2Mzc3MjM4ODEsImV4cCI6MTYzNzcyNzQ4MSwianRpIjoiZDJmMTcwM2UxMThiMjY5YWIzMGExMGJmOWUzZTI5NjU3YTQ0YWNiZSJ9.LiJLYjoTsKmf0YjeT28h-NWXPAU0V4G7OrgaEv5NE7m4r3Up5VpTS-xWhKlTeCUo8zcYnCDkt9hUdC8CBqehvm-vRgzUWf6TMhU6N4fzZvPmbuOJ7nC1IcqupgzTzjrKKuhO1uCt0NuKXpe1PdFslekpeKqxT91WgI4YIcqzRYWDYLYiMdgB7jZmZwp8nfayyvvcZ0oDY37X9HkRZozahbUTGCDlfi7gobTosBqNTcK7JJ4D1KzaxAWyZRpN0V5357AtmYdk40sxTdRVCzIOdc8Aftpn-2P32nY84xrtCSoL7XldKDTQL4CC3N_noxL8h9f5SKiiLa-MbzKPtznBSw
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+OWASP Juice Shop: 
+i. https://ex0a.medium.com/tryhackme-owasp-juice-shop-53e87fb1af36
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Olympus: 
+i. https://medium.com/@kemalG/tryhackme-olympus-walkthrough-ef8c19d53657
+ii. https://systemweakness.com/tryhackme-olympus-full-walkthrough-f28f555809a2
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+L2 MAC Flooding and ARP Spoofing:
+i. https://github.com/shoulderhu/gitbook-tryhackme/blob/master/walkthroughs/easy/l2-mac-flooding-and-arp-spoofing.md
+ii. https://github.com/Fz3r0/Fz3r0/blob/main/Networking/Attacking-Cisco/THM-L2-MAC-Flooding-%26-ARP-Spoofing-writeup.md
+iii. https://github.com/ajeetdev/Tryackme--L2-MAC-Flooding-ARP-Spoofing--write-up
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+Miscellaneous GitHub Write-Up Repos:
+
+i. https://github.com/GohEeEn/TryHackMe-Write-Up
+
+ii. https://github.com/munazzir/Tryhackme-Writeup
+
+iii. https://github.com/BJConway/thm_writeups
+
+iv. https://github.com/timruff/write-up/tree/3bf5aa01459eeaf5ac613c20a4c28e4da6b198d3/tryhackme 
+- Grouped by Difficulty of Module in ["easy-ctf", "medium-ctf", "hard-ctf"] Subdirectories.
+
+v. https://github.com/wuvel/wuvel.github.io/tree/19c43d3840b10c80f421ee07f2fbb92c2c89eeea/_posts
+- Grouped by Descending Time Stamp ("%Y-%M-%d"+"<module-name-in-dividers>" + ".md")
+
+vi. https://github.com/JohnHammond/thm
+- Yes, the YouTuber... Look up hist stuff if you can't find the docs for it...
+Linux and Win Exploitations are HIGHLY Kinesthetic... See it to believe it...
+
+vii. https://github.com/J3rome/ctf-writeups/tree/master/tryhackme
+
+viii. https://github.com/Voker2311/CaptureTheFlag-walkthroughs
+
+ix. https://github.com/percoction/CTF/tree/main/THM/rooms
+
+x. https://github.com/N0000bMast3r/Tryhackme-WriteUps/tree/b75e58eee76b9c2840af0084d76b18e5c226c5f1
+
+xi. https://github.com/Spotifys/Tryhackme
+
+xii. https://github.com/xnomas/TryHackMe-Writeups
+
+xiii. https://github.com/siunam321/CTF-Writeups/tree/main/TryHackMe
+
+xiv. https://github.com/AfvanMoopen/tryhackme- 
+
+xv. https://www.aldeid.com/w/index.php?title=Special:Search&limit=500&offset=0&profile=default&search=tryhackme-
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
+
+
+   
